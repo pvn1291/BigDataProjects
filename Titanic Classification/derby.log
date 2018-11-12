@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 11 18:21:56 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-054b-d969-00000300e198 
+on database directory /Users/pvn1291/WorkSpace/Github/Data Science/Spark/Projects/Titanic Classification/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@737d7e95 
+Loaded from file:/Users/pvn1291/spark-2.3.2-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/Users/pvn1291/WorkSpace/Github/Data Science/Spark/Projects/Titanic Classification
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
